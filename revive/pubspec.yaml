@@ -1,0 +1,57 @@
+name: revive
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+9
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^5.1.0
+  shimmer: ^3.0.0
+  shimmer_animation: ^2.1.0+1
+  fancy_shimmer_image: ^2.0.3
+  font_awesome_flutter: ^10.5.0
+  flutter_svg: ^2.0.7
+  flutter_staggered_grid_view: ^0.6.2
+  animations: ^2.0.7
+  flutter_staggered_animations: ^1.1.1
+  photo_gallery: ^2.0.2
+  permission_handler: ^11.0.0
+  transparent_image: ^2.0.1
+  in_app_purchase: ^3.1.7
+  loader_skeleton: ^0.0.4
+  google_nav_bar: ^5.0.6
+  provider: ^6.0.5
+  google_sign_in: ^6.1.4
+  firebase_auth: ^4.7.2
+  firebase_core: ^2.15.0
+  http: ^1.1.0
+  fvm: ^2.4.1
+  animated_text_kit: ^4.2.2
+  path_provider: ^2.1.1
+  lecle_downloads_path_provider: ^0.0.2+8
+  flutter_file_dialog: ^3.0.2
+  before_after: ^3.0.0+1
+  flutter_cache_manager: ^3.3.1
+  shared_preferences: ^2.2.2
+  awesome_dialog: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/

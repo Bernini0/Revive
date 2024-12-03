@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "246538505143",
+    "project_id": "revive-photo",
+    "storage_bucket": "revive-photo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246538505143:android:0c6ea776024b66ee39f632",
+        "android_client_info": {
+          "package_name": "com.amicsoft.revive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246538505143-3i848ctia24qic1v0h48o0qa43asslne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amicsoft.revive",
+            "certificate_hash": "1fb9eaf6e47334f517bef1535c71a51e138c1f0b"
+          }
+        },
+        {
+          "client_id": "246538505143-bum2biqbpirg1dolbib1no58396udle0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amicsoft.revive",
+            "certificate_hash": "f07ef3401a9a1c08fef0953e86d235ec520bcce4"
+          }
+        },
+        {
+          "client_id": "246538505143-u89vm1mv5n4mbksvoph33o1d8c50ql93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amicsoft.revive",
+            "certificate_hash": "2be7d689e24c6460ad48b536630469e30746388f"
+          }
+        },
+        {
+          "client_id": "246538505143-cfbqfj79squ6etgadkh725l1qjhiimsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXwAFET-pmFkSbar-5_z9gZruSnBFnFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246538505143-cfbqfj79squ6etgadkh725l1qjhiimsd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246538505143-03325mau4hh6r8u2t8an8lp8u0lvs184.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amicsoft.revive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
